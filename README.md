@@ -1,5 +1,5 @@
 ### Hi there! 👋
-## I am a certified QA Engineer with over 3 years of experience in web and mobile app testing. A strong team player, as well as self-organized enough to work as the only tester on the project. Always open to learning new things and improving existing skills.
+## I am a certified QA Engineer with experience in web and mobile app testing. A strong team player, as well as self-organized. Always open to learning new things and improving existing skills.
 
 ### Languages and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
