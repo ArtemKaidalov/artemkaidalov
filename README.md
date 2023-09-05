@@ -10,4 +10,4 @@
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
-![Header](<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/javascript.png" alt="javascript"/>)
+![Header](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
