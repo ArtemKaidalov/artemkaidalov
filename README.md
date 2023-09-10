@@ -5,7 +5,8 @@ ____
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:artem.kaidalov.qa@gmail.com" target="blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" 
-alt="artem.kaidalov.qa@gmail.com" height="40" width="40"></a>
+alt="artem.kaidalov.qa@gmail.com" height="45" width="45"></a>
+<a href="https://t.me/Artem_Kaidalov" target="blank"> <img align="center" src="https://www.freepnglogos.com/uploads/telegram-logo-4.png" height="43" width="43"></a>
 <a href="https://www.linkedin.com/in/artem-kaidalov" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="https://www.linkedin.com/in/artem-kaidalov" height="40" width="40" /></a>
 <a href="https://discordapp.com/users/Artem_Kaidalov#QA/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-squircle/250/discord_squircle-64.png" alt="Artem_Kaidalov#QA" height="40" width="40" /></a> </p>
 
