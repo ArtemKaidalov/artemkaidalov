@@ -1,5 +1,5 @@
 ### Hello everyone! 👋
-## I am a certified QA Engineer with theoretical experience in manual and automated testing in web and mobile app. Always open to learning new things and improving existing skills. A strong team player, as well as self-organized. I communicate well with other team members to ensure high product quality and improve the development process.I am ready to work both independently and in a team to achieve the set goals.
+## I am a certified QA Engineer with experience in manual and automated testing in web and mobile app. Always open to learning new things and improving existing skills. A strong team player, as well as self-organized. I communicate well with other team members to ensure high product quality and improve the development process.I am ready to work both independently and in a team to achieve the set goals.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
